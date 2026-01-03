@@ -233,6 +233,12 @@ Quick verification via QR
 ---
 
 ## 📄 الترخيص | License
+## 🆔 DID (Decentralized Identifier)
 
-MIT
+- **DID:** `did:web:ali.cb.id`
+- **DID Document:**  
+  https://ali.cb.id/.well-known/did.json
+
+هذا الـ DID يربط الهوية الرقمية بالمحفظة على شبكة Base
+بدون أي تفاعل أو صلاحيات.
 
