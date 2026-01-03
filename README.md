@@ -269,3 +269,4 @@ Quick verification via QR
   "network": "base",
   "createdAt": "2026-01-04T00:00:00Z"
 }
+Add proof.json
