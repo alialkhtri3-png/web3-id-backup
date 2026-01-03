@@ -258,5 +258,14 @@ Quick verification via QR
 "assertionMethod": [
 "did:web:ali.cb.id#owner"
 ]
-}
+}proof.json
 
+{
+  "type": "ethereum-signature-proof",
+  "owner": "did:web:ali.cb.id",
+  "address": "0xB45A7510EaaD1Ef02CFaD55C67c0EA084CDD40d2",
+  "message": "I am Ali.cb.id verifying ownership of this Ethereum address",
+  "signature": "PUT_YOUR_SIGNATURE_HERE",
+  "network": "base",
+  "createdAt": "2026-01-04T00:00:00Z"
+}
