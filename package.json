@@ -1,6 +1,16 @@
 {
+  "name": "web3-id",
+  "version": "0.1.0",
+  "description": "Web3 Identity Page – Web3 identity toolkit",
+  "type": "module",
+  "main": "src/provider.ts",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0"
+    "start": "node examples/index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alialkhtri3-png/web3-id"
   }
 }
 
